@@ -1,8 +1,20 @@
+body {
+	background-image: url(../img/lg.jpg);
+	background-repeat: no-repeat;
+	background-position-x: 45%; 
+}
 div {
 	height: 100px;
 	width: 100px;
 	border-radius: 50%;
 	display: inline-block;
+}
+form {
+	padding-top: 9%;
+	padding-left: 15%;
+}
+input {
+	margin-left: 5.8%;
 }
 .circulo-uno {
 	background-color: red;
@@ -12,7 +24,4 @@ div {
 }
 .circulo-tres {
 	background-color: yellow;
-}
-.may {
-	background-color: black;
 }
